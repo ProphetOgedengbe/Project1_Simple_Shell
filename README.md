@@ -1,8 +1,11 @@
 Quash – A Simple Unix Shell
 
 Author: Prophet O.
+
 Course: Intro to C / Systems Programming
+
 Project: Quash (Project #1)
+
 Description: A basic command-line shell that replicates core behaviors of sh/bash using C, process forking, and Unix system calls.
 
 ⸻
